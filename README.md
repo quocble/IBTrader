@@ -5,7 +5,7 @@ algorithm. We provide an easier abstraction that is similar to Quantopian's API.
 
 ## API
 
-These functions a implemented for you.  Tu buy/sell, simply send target %, other types order can be easily implemented based on this api.
+These functions are implemented for you.  To buy/sell, simply send target %, other types order can be easily implemented based on this api.
 
 ```python
 # agent/base_algo.py
